@@ -11,7 +11,7 @@
 > ![Main Window Dark](<img width="1920" height="886" alt="IMG_20260727_143454" src="https://github.com/user-attachments/assets/ae90b2bf-d446-4195-b881-f53a1819b92c" />)
 
 > **Main Window – Light Theme**  
-> ![Main Window Light](<img width="1920" height="962" alt="IMG_20260727_143503" src="https://github.com/user-attachments/assets/a911c123-e33a-4dd0-b4aa-483bdb20833c" />)
+> ![Main Window Light](<img width="1920" height="962" alt="IMG_20260727_143503" src="https://github.com/user-attachments/assets/a911c123-e33a-4dd0-b4aa-483bdb20833c" /> )
 
 > **Add translator Dialog**  
 > ![Add translator Dialog](<img width="1434" height="1100" alt="۲۰۲۶۰۷۲۷_۱۴۴۰۴۱" src="https://github.com/user-attachments/assets/ffc1a0f0-dea4-4647-9c27-caf2c163feca" />)
